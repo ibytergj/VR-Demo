@@ -1956,7 +1956,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3726053278715948906, guid: 302406d8c6c784d3cbe17ece6186f3ca, type: 3}
       propertyPath: m_SmoothMotionEnabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3896929178005604968, guid: 302406d8c6c784d3cbe17ece6186f3ca, type: 3}
       propertyPath: m_IsActive
@@ -2158,6 +2158,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: -23
       objectReference: {fileID: 0}
+    - target: {fileID: 5766124732879874836, guid: 302406d8c6c784d3cbe17ece6186f3ca, type: 3}
+      propertyPath: m_Reticle
+      value: 
+      objectReference: {fileID: 6275872155353212687, guid: 8b983c20181b75e489cd0b88a44c68f8, type: 3}
     - target: {fileID: 5903544796312529564, guid: 302406d8c6c784d3cbe17ece6186f3ca, type: 3}
       propertyPath: 'm_ActiveFontFeatures.Array.data[0]'
       value: 1801810542
@@ -2258,6 +2262,10 @@ PrefabInstance:
       propertyPath: m_CullingMask.m_Bits
       value: 247
       objectReference: {fileID: 0}
+    - target: {fileID: 8212885184155701005, guid: 302406d8c6c784d3cbe17ece6186f3ca, type: 3}
+      propertyPath: m_Reticle
+      value: 
+      objectReference: {fileID: 6275872155353212687, guid: 8b983c20181b75e489cd0b88a44c68f8, type: 3}
     - target: {fileID: 8349117614387639543, guid: 302406d8c6c784d3cbe17ece6186f3ca, type: 3}
       propertyPath: m_Name
       value: XR Setup
