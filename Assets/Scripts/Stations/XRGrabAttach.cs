@@ -85,6 +85,8 @@ namespace ReadyPlayerMe.XR
 
         private void OnRelease(SelectExitEventArgs args)
         {
+            Debug.Log($"OnRelease {args}");
+
             interactable = null;
             var releaseInteractor = args.interactorObject;
 
